@@ -20,7 +20,7 @@ h1:hover{
 }
 
 #back{
-    background-image: url(../computerimg.jpg);
+    background-image: url(computerimg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     font-weight: bold;
@@ -30,7 +30,7 @@ h1:hover{
     font-family: 'Courier New', Courier, monospace;
 }
 #back:hover{
-    background-image: url(../image.jpg);
+    background-image: url(image.jpg);
     color:black;
     font-weight: bold;
     font-style: italic;
